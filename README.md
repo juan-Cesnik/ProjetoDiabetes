@@ -41,13 +41,14 @@ https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 1. Faça o clone do repositório que será criado a partir deste modelo.
 
     ```bash
-    git clone ENDERECO_DO_REPOSITORIO
+    git clone git@github.com:juan-Cesnik/ProjetoDiabetes.git
     ```
+Lembrando que caso queria colabora faça um fork do meu repositorio para depois realizar o pull request e qualquer coisa me mande um Issuer
 
-2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
+2. Crie um ambiente virtual para o seu projeto utilizando o `conda`.
 
     ```bash
-    conda env export > ambiente.yml
+    conda env create -f ambiente.yml --name coloque_o_nome_da_sua_escolha
     ```
 ## Um pouco mais sobre a base
 
