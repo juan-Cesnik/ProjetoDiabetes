@@ -1,3 +1,4 @@
+
 # Modelo de projeto de ciência de dados
 
 Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
@@ -84,3 +85,6 @@ forçadamente um Notebook ao controle de versão, faça um commit forçado com o
 comando `git add --force NOME_DO_ARQUIVO.ipynb`.
 
 Para mais informações sobre como usar Git e GitHub, [clique aqui](https://cienciaprogramada.com.br/2021/09/guia-definitivo-git-github/). Sobre ambientes virtuais, [clique aqui](https://cienciaprogramada.com.br/2020/08/ambiente-virtual-projeto-python/).
+=======
+# ProjetoDiabetes
+Projeto para aplicar conceitos de estatística realizado no curso de ciência de dados pela hashtag treinamentos
